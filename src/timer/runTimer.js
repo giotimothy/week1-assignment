@@ -1,4 +1,7 @@
+// Giorgio Timothy Suharianto
+// JSCRIPT 320 - Week 1
+
 import Timer from './Timer';
 
-const countdown = new Timer(10);
-countdown.start();
+const Countdown = new Timer(10);
+Countdown.start();
